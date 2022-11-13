@@ -10,4 +10,4 @@ written by chiu20060726
 分割下一張圖片
 重複
 * 注意:本程式可能使用大量資源，請評估後再執行
-* 使用的影片來源 : https://www.youtube.com/watch?v=Mekh6lKQemk
+* 使用的影片來源 : https://youtu.be/AkwH_zqF9Xs
