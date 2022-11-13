@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\jerem\source\repos\test open cv\test open cv\main.cpp(15,23): warning C4129: '|': 無法辨識的字元逸出序列
+C:\Users\jerem\source\repos\test open cv\test open cv\main.cpp(16,30): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\jerem\source\repos\test open cv\test open cv\main.cpp(75,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  test open cv.vcxproj -> C:\Users\jerem\source\repos\test open cv\x64\Debug\test open cv.exe
