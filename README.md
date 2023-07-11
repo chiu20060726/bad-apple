@@ -11,3 +11,6 @@ written by chiu20060726
 重複
 * 注意:本程式可能使用大量資源，請評估後再執行
 * 使用的影片來源 : https://www.youtube.com/watch?v=Mekh6lKQemk
+
+
+* 講解及示範影片 : https://youtu.be/KzjrfF4SshE
